@@ -2,7 +2,7 @@
 
 
 ## •Social Medias
-[![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/erickzz_mc/)
+[![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://www.instagram.com/erickzz_mc/](https://www.instagram.com/erick1mc/#))
 
 
 ## •Used Languages
