@@ -11,7 +11,7 @@ Estou sempre explorando novas stacks e construindo projetos criativos.
 ##  Skills que Conheço
 <p align="center">
   <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=js,python,java,php,html,css,ts,react,tailwind&theme=dark&perline=10" alt="Skills Icons" />
+    <img src="https://skillicons.dev/icons?i=js,python,java,php,html,css,ts,react,tailwind,spring&theme=dark&perline=10" alt="Skills Icons" />
   </a>
 </p>
 
