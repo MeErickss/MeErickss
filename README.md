@@ -21,9 +21,6 @@ Estou sempre explorando novas stacks e construindo projetos criativos.
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MeErickss&theme=react" alt="GitHub Profile Summary" width="100%" />
 </p>
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MeErickss&theme=react" alt="GitHub Repos per Language" width="100%" />
-</p>
 <br/>
 
 ---
