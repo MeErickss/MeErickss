@@ -35,7 +35,7 @@ Estou sempre construindo projetos criativos.
 ##  Projetos Fixados
 | Projeto | Descrição |
 |---------|-----------|
-| **pharm‑fe** | Front‑end em JavaScript (provável foco em interface para farmácia ou sistema farmacêutico) |
+| **pharm‑fe** | Front‑end em JavaScript |
 | **pharm‑be‑springboot** | Back‑end em Java com Spring Boot |
 | **biblioteca_escolar** | Projeto em JavaScript, possivelmente gerenciando biblioteca escolar |
 | **calculadoraAPS** | Calculadora em TypeScript (talvez atividade prática de sistema) |
