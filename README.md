@@ -1,49 +1,61 @@
-# 👋 Olá, eu sou o Erick Alair
+<h1 align="center">Erick Alair Marçal — MeErickss</h1>
 
-💻 Desenvolvedor apaixonado por tecnologia e aprendizado contínuo.  
-🚀 Sempre explorando novas stacks e construindo projetos criativos.  
+#  Sobre Mim
+<h3 align="center">
+Sou um desenvolvedor apaixonado por tecnologia e aprendizado contínuo.  
+Estou sempre explorando novas stacks e construindo projetos criativos.
+</h3>
 
 ---
 
-## 🚀 Minhas Skills
-
+##  Skills que Conheço
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=fff&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=fff&style=for-the-badge" />
+  <a href="https://skillicons.dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=js,python,java,php,html,css,ts,sql&theme=dark&perline=10" alt="Skills Icons" />
+  </a>
 </p>
 
 ---
 
-## 📊 GitHub Stats
-
+##  Estatísticas no GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ErickAlair&show_icons=true&theme=radical" alt="Estatísticas do GitHub" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickAlair&layout=compact&theme=radical" alt="Linguagens mais usadas" height="150"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MeErickss&theme=react" alt="GitHub Profile Summary" width="100%" />
+</p>
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MeErickss&theme=react" alt="GitHub Repos per Language" width="100%" />
+</p>
+<br/>
+
+---
+
+##  Streak & Contribuições
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MeErickss&theme=dark&locale=pt-br" alt="GitHub Streak Stats" />
 </p>
 
 ---
 
-## 🔥 Streak & Contribuições
+##  Projetos Fixados
+| Projeto | Descrição |
+|---------|-----------|
+| **pharm‑fe** | Front‑end em JavaScript (provável foco em interface para farmácia ou sistema farmacêutico) |
+| **pharm‑be‑springboot** | Back‑end em Java com Spring Boot |
+| **biblioteca_escolar** | Projeto em JavaScript, possivelmente gerenciando biblioteca escolar |
+| **calculadoraAPS** | Calculadora em TypeScript (talvez atividade prática de sistema) |
+---
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ErickAlair&theme=radical" alt="GitHub Streak" />
-</p>
+##  Onde me encontrar
+- [LinkedIn](https://www.linkedin.com/in/erick‑alair‑marçal) *(adicione seu link real se for diferente)*
+- seuemail@exemplo.com *(substitua por seu e-mail ou outro contato profissional)*
 
 ---
 
-## 🌐 Onde me encontrar
-
-- 💼 [LinkedIn](https://linkedin.com/in/seuusuario)  
-- 📧 **seuemail@email.com**
+### Extras opcionais (caso queira incluir):
+- Um GIF divertido ou imagem animada relacionada à programação ou seu estilo.
+- Badges para blog, Twitter, portfólio, ou ensino (se houver).
+- Se quiser, posso ajudar a complementar com seus projetos atuais, linguagem preferida, frameworks favoritos ou outras seções como “Experiência”, “Cursos”, “Certificações” etc.
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ErickAlair/ErickAlair/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
+Se quiser, posso ajustar o texto (em português ou inglês), trocar ícones, adicionar seu estilo ou botões específicos — é só avisar!
+::contentReference[oaicite:1]{index=1}
