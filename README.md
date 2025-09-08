@@ -38,7 +38,7 @@ Estou sempre construindo projetos criativos.
 | **pharm‑fe** | Front‑end em JavaScript |
 | **pharm‑be‑springboot** | Back‑end em Java com Spring Boot |
 | **biblioteca_escolar** | Projeto em JavaScript, possivelmente gerenciando biblioteca escolar |
-| **calculadoraAPS** | Calculadora em TypeScript (talvez atividade prática de sistema) |
+| **calculadoraAPS** | Calculadora em TypeScript |
 ---
 
 ##  Onde me encontrar
