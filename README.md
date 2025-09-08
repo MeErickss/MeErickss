@@ -2,8 +2,8 @@
 
 #  Sobre Mim
 <h3 align="center">
-Sou um desenvolvedor apaixonado por tecnologia e aprendizado contínuo.  
-Estou sempre explorando novas stacks e construindo projetos criativos.
+Sou um desenvolvedor apaixonado por tecnologia e música :),  
+Estou sempre construindo projetos criativos.
 </h3>
 
 ---
