@@ -45,14 +45,4 @@ Estou sempre explorando novas stacks e construindo projetos criativos.
 - [LinkedIn](https://www.linkedin.com/in/erick‑alair‑marçal) *(adicione seu link real se for diferente)*
 - seuemail@exemplo.com *(substitua por seu e-mail ou outro contato profissional)*
 
----
-
-### Extras opcionais (caso queira incluir):
-- Um GIF divertido ou imagem animada relacionada à programação ou seu estilo.
-- Badges para blog, Twitter, portfólio, ou ensino (se houver).
-- Se quiser, posso ajudar a complementar com seus projetos atuais, linguagem preferida, frameworks favoritos ou outras seções como “Experiência”, “Cursos”, “Certificações” etc.
-
----
-
-Se quiser, posso ajustar o texto (em português ou inglês), trocar ícones, adicionar seu estilo ou botões específicos — é só avisar!
 ::contentReference[oaicite:1]{index=1}
