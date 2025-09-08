@@ -44,5 +44,3 @@ Estou sempre explorando novas stacks e construindo projetos criativos.
 ##  Onde me encontrar
 - [LinkedIn](https://www.linkedin.com/in/erick‑alair‑marçal) *(adicione seu link real se for diferente)*
 - seuemail@exemplo.com *(substitua por seu e-mail ou outro contato profissional)*
-
-::contentReference[oaicite:1]{index=1}
