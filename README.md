@@ -17,13 +17,6 @@ Estou sempre construindo projetos criativos.
 
 ---
 
-##  Streak & Contribuições
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=MeErickss&theme=dark&locale=pt-br" alt="GitHub Streak Stats" />
-</p>
-
----
-
 ##  Projetos Fixados
 | Projeto | Descrição |
 |---------|-----------|
