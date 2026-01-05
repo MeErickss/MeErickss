@@ -11,7 +11,7 @@ Estou sempre construindo projetos criativos.
 ##  Skills que Conheço
 <p align="center">
   <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=html,php,css,js,ts,react,tailwind,java,spring&theme=dark&perline=10" alt="Skills Icons" />
+    <img src="https://skillicons.dev/icons?i=html,php,css,js,ts,react,tailwind,python,java,spring&theme=dark&perline=10" alt="Skills Icons" />
   </a>
 </p>
 
