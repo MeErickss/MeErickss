@@ -17,14 +17,6 @@ Estou sempre construindo projetos criativos.
 
 ---
 
-##  Estatísticas no GitHub
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MeErickss&theme=react" alt="GitHub Profile Summary" width="100%" />
-</p>
-<br/>
-
----
-
 ##  Streak & Contribuições
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=MeErickss&theme=dark&locale=pt-br" alt="GitHub Streak Stats" />
