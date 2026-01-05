@@ -31,9 +31,6 @@ Estou sempre construindo projetos criativos.
 # 📫 Onde Me Encontrar
 
 <div align="center">
-  <a href="https://x.com/1Erick1_" target="_blank">
-    <img src="https://img.shields.io/badge/X.com-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter (X)" />
-  </a>
   <a href="https://instagram.com/erick1mc" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
