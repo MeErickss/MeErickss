@@ -17,8 +17,6 @@ Estou sempre construindo projetos criativos.
 
 ---
 
----
-
 # 📫 Onde Me Encontrar
 
 <div align="center">
