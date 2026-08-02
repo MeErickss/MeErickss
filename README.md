@@ -17,15 +17,6 @@ Estou sempre construindo projetos criativos.
 
 ---
 
-##  Projetos Fixados
-| Projeto | Descrição |
-|---------|-----------|
-| **pharm‑fe** | Front‑end em JavaScript com Integração Modbus|
-| **pharm‑be‑springboot** | Back‑end em Java com Spring Boot |
-| **biblioteca_escolar** | Projeto em JavaScript |
-| **calculadoraAPS** | Calculadora em TypeScript |
----
-
 ---
 
 # 📫 Onde Me Encontrar
